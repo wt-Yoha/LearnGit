@@ -1,3 +1,4 @@
 This text is wirte to learn git.
 Git is a division version control system.
 Now i'm tring to modify this file on branch dev.
+This change is happen in master branch.
