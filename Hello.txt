@@ -1,3 +1,4 @@
 This text is wirte to learn git.
-Git is a division version control system.
+Git is a version control system.
 Now i'm tring to modify this file on branch feature1.
+Add a line to see the diff from reposrtry.
