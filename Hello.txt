@@ -1,0 +1,2 @@
+This text is wirte to learn git.
+Git is a division version control system.
